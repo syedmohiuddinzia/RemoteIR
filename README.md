@@ -4,7 +4,7 @@ Infrared (IR) is a wireless mobile technology used for device communication over
 
 # Requirements
 
-**1.Arduino IDE----**
+**1.Arduino IDE**</br>
 **2. Arduino Hardware**
 **3. 3 LEDs Red, 1 LED Green**
 **4. 2 NeoPixel RGB LEDs**
