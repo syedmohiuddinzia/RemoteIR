@@ -9,10 +9,11 @@ Infrared (IR) is a wireless mobile technology used for device communication over
 **3. 3 LEDs Red, 1 LED Green** </br>
 **4. 2 NeoPixel RGB LEDs** </br>
 **5. 3 Push Button** </br>
-**6. Male Jumpers** </br>
-**7. BreadBoard** </br>
-**8. IR Transmitter Remote** </br>
-**9. IR Receiver Module (e.g KY022)** </br>
+**6. Resistors (multiple 1K, 220 ohm)** </br>
+**7. Male Jumpers** </br>
+**8. BreadBoard** </br>
+**9. IR Transmitter Remote** </br>
+**10. IR Receiver Module (e.g KY022)** </br>
 
 # Schematic
 
