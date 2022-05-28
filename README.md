@@ -16,7 +16,7 @@ Infrared (IR) is a wireless mobile technology used for device communication over
 
 # Schematic
 
-![RemoteIR](https://github.com/syedmohiuddinzia/SerComESP32uino/blob/main/ESP32PinOut.JPG)
+![RemoteIR](https://github.com/syedmohiuddinzia/RemoteIR/blob/main/RemoteIR.png)
 
 # Instructions
 
