@@ -4,15 +4,15 @@ Infrared (IR) is a wireless mobile technology used for device communication over
 
 # Requirements
 
-**1.Arduino IDE**</br>
-**2. Arduino Hardware**
-**3. 3 LEDs Red, 1 LED Green**
-**4. 2 NeoPixel RGB LEDs**
-**5. 3 Push Button**
-**6. Male Jumpers**
-**7. BreadBoard**
-**8. IR Transmitter Remote**
-**9. IR Receiver Module (e.g KY022)**
+**1.Arduino IDE** </br>
+**2. Arduino Hardware** </br>
+**3. 3 LEDs Red, 1 LED Green** </br>
+**4. 2 NeoPixel RGB LEDs** </br>
+**5. 3 Push Button** </br>
+**6. Male Jumpers** </br>
+**7. BreadBoard** </br>
+**8. IR Transmitter Remote** </br>
+**9. IR Receiver Module (e.g KY022)** </br>
 
 # Schematic
 
